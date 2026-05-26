@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SongData
   animationName: Samba
   songName: Kulikitaka
+  noteChart: {fileID: 4900000, guid: def6bc25fb9e8354db1d006d2767de50, type: 3}
+  speed: 300
